@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings">設定</string>
+    <string name="language">ja-Jp</string>
+    <string name="read_error">データを読み取ることができません
+</string>
+    <string name="invalid_URL">無効なURL
+</string>
+    <string name="connection_error">サーバーに接続できません
+</string>
+    <string name="gender">ジャンルを選択</string>
+    <string name="movie_condition_image">映画ポスター
+</string>
+    <string name="popularity">人気
+: %s</string>
+    <string name="like">投票: %s</string>
+    <string name="title_activity_movie_details">映画の乱れ
+</string>
+</resources>

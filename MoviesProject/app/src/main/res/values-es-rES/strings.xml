@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Películas</string>
+    <string name="settings">ajustes</string>
+    <string name="language">es-Es</string>
+    <string name="read_error">"Imposible leer los datos "</string>
+    <string name="invalid_URL">URL Invalida</string>
+    <string name="connection_error">" No se puede conectar al servidor"</string>
+    <string name="gender">" Seleccione un género"</string>
+    <string name="movie_condition_image">"Cartel de la película "</string>
+    <string name="popularity">Popularidad: %s</string>
+    <string name="like">" Votos:% s"</string>
+    <string name="title_activity_movie_details">" Destalhes de la película"</string>
+</resources>

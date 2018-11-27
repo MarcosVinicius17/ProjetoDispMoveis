@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings">Einstellungen</string>
+    <string name="language">de-De</string>
+    <string name="read_error">Daten können nicht gelesen werden
+</string>
+    <string name="invalid_URL">
+Ungültige URL</string>
+    <string name="connection_error">
+Es kann keine Verbindung zum Server hergestellt werden</string>
+    <string name="gender">Wählen Sie ein Genre aus
+</string>
+    <string name="movie_condition_image">Filmplakat</string>
+    <string name="popularity">Popularität: %s</string>
+    <string name="like">Abstimmungen: %s</string>
+    <string name="title_activity_movie_details">Filmstörungen
+</string>
+</resources>

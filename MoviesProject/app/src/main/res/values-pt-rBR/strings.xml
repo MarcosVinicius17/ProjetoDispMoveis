@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings">Configurações</string>
+    <string name="language">pt-Br</string>
+    <string name="read_error">Impossível ler os dados</string>
+    <string name="invalid_URL">URL Inválida</string>
+    <string name="connection_error">Impossível conectar ao server</string>
+    <string name="gender">Selecione um gênero</string>
+    <string name="movie_condition_image">Poster do filme</string>
+    <string name="popularity">Popularidade: %s</string>
+    <string name="like">Votos: %s</string>
+    <string name="title_activity_movie_details">Destalhes do filme</string>
+</resources>

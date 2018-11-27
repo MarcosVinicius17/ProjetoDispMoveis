@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_key" translatable="false">82fbeeec0b040841ede87149a96fc732</string>
+    <string name="gender_web_service_url" translatable="false">https://api.themoviedb.org/3/genre/movie/list?api_key=%s&amp;amp;language=%s</string>
+    <string name="movie_web_service_url" translatable="false">https://api.themoviedb.org/3/discover/movie?api_key=%s&amp;language=%s&amp;sort_by=popularity.desc&amp;with_genres=%s</string>
+    <string name="details_web_service_url" translatable="false">https://api.themoviedb.org/3/movie/%s?api_key=%s&amp;language=%s</string>
+    <string name="image_download_URL" translatable="false">https://image.tmdb.org/t/p/w200/%s</string>
+
+</resources>
